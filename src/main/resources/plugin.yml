@@ -1,0 +1,11 @@
+name: MultiSummon
+version: ${project.version}
+main: me.triadtriangle.multisummon.MultiSummon
+api-version: 1.16
+authors: [ TriadTriangle ]
+description: Allows for summoning multiple entities with 1 command
+commands:
+  multisummon:
+    description: Used to summon multiple entities
+    usage: /<command> xPos yPos zPos blockType spawnAmount fuseTime xVelocity yVelocity zVelocity
+    aliases: [ms]
