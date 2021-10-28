@@ -7,5 +7,5 @@ description: Allows for summoning multiple entities with 1 command
 commands:
   multisummon:
     description: Used to summon multiple entities
-    usage: /<command> xPos yPos zPos blockType spawnAmount fuseTime xVelocity yVelocity zVelocity
+    usage: /<command> this is the updated version
     aliases: [ms]
